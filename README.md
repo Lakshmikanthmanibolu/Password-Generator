@@ -4,11 +4,11 @@ A modern and responsive Password Generator Web Application built using **HTML, C
 
 ## 🚀 Live Demo
 
-**Hosted URL:** Add your deployed project link here
+**Hosted URL:** https://genarate.netlify.app/
 
 ## 📂 GitHub Repository
 
-**Repository URL:** Add your GitHub repository link here
+**Repository URL:** https://github.com/Lakshmikanthmanibolu/Password-Generator
 
 ---
 
